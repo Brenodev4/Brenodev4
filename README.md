@@ -4,11 +4,11 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
   <p align="left"> 
-  Formado em Tecnologia em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, com 4 anos de experiência no desenvolvimento web. Nesse período, aprendi que ser excelente na codificação é apenas parte do caminho. É igualmente essencial compartilhar conhecimento com a equipe, pois o crescimento coletivo é a forma mais eficiente de elevar a qualidade de um projeto e tornar a entrega contínua uma realidade para qualquer time.
+  Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, estou focado em conquistar minha primeira oportunidade como Desenvolvedor Full Stack. Tenho experiência prática com desenvolvimento web por meio de projetos próprios, onde venho aplicando conhecimentos em front-end e back-end para construir aplicações funcionais, organizadas e escaláveis.
 
-Para mim, um bom código é aquele que pode ser facilmente lido, entendido, mantido e escalado por desenvolvedores de qualquer nível de experiência. Acredito que a clareza e a simplicidade são tão importantes quanto a funcionalidade, garantindo que o trabalho seja sustentável a longo prazo.
+Mais do que apenas programar, busco entender o impacto do que desenvolvo, priorizando código limpo, legível e de fácil manutenção. Acredito que boas soluções são aquelas que qualquer desenvolvedor consegue compreender e evoluir com facilidade.
 
-
+Sou movido por aprendizado constante, tenho facilidade em trabalhar em equipe e valorizo a troca de conhecimento como forma de acelerar resultados. Estou pronto para contribuir, evoluir rapidamente e agregar valor desde o primeiro dia.
   </p>
 </div>
 
